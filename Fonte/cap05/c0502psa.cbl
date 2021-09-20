@@ -1,0 +1,14 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. C0502PSA.
+       DATA DIVISION.
+       LOCAL-STORAGE SECTION.
+       77  LS-ENTER PIC X.
+       78  CR VALUE X"0D".
+       LINKAGE SECTION.
+       77  LK-ENTER PIC X.
+       PROCEDURE DIVISION USING LK-ENTER.
+       PROG-PRINCIPAL-PARA.
+           DISPLAY CR.
+           DISPLAY "Tecle <ENTER> para continuar... " WITH NO ADVANCING.
+           ACCEPT LS-ENTER.
+           EXIT.

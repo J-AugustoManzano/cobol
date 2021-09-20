@@ -1,0 +1,5 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. ALOMUNDO.
+       PROCEDURE DIVISION.
+           DISPLAY "ALO, MUNDO!".
+           STOP RUN.
