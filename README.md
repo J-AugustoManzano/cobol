@@ -1,1 +1,11 @@
-# cobol
+# Livro: Programação COBOL: Introdução com T-Rex
+
+Este livro foi escrito para pessoas novatas na atividade de programação com a linguagem COBOL, desde que possuam prévios conhecimentos de lógica de programação ou que já tenham domínio de alguma linguagem de programação.
+
+Este texto apresenta os primeiros passos na programação COBOL em um contexto extremamente simplifica-do e introdutório, não há a menor pretensão em avançar além disto, sendo apenas este estudo um passaporte de entrada ao mundo da programação COBOL. O nível de detalhamento técnico apresentado neste livro é básico. Nada intermediário ou avançado sobre COBOL é aqui apresentado.
+
+Este livro apresenta a linguagem de maneira gradativa a partir de exemplos simplistas, despretensiosos e até incomuns no mundo COBOL até chegar a exemplos contextualizados e com nível de complexidade maior. Os exemplos utilizados ou desenvolvidos podem até não ser as melhores soluções existentes para determinados problemas, mas são as soluções possíveis e estão dentro do contexto básico indicado na obra.
+
+Este texto descreve detalhes básicos da linguagem, evitando-se apresentar informações que não são usadas no contexto da obra, salvo raras exceções. Cada capítulo apresenta um tema que abrange recursos, explana-ções, explicações e aplicações, partindo-se como base da escrita de códigos que sejam compatíveis com o padrão 2014 para a linguagem. No entanto, algumas vezes são comentados e usados recursos dos padrões normatizados em 1974 e 1985.
+
+Cada capítulo, exceto o primeiro, mostra uma série de recursos da linguagem em trechos de código que deve-rão ser escritos para o desenvolvimento da devida aprendizagem. Ao final de cada capítulo, exceto o sétimo capítulo, é definido um tópico chamado “hora de programar” que trás uma série de exemplos de códigos com o uso dos recursos apresentados no capítulo ou em capítulos anteriores, podendo conter detalhes não expla-nados e que são então descritos de forma complementar. No sétimo capítulo devido à complexidade do tema sobre o uso de arquivos nativos é apresentada uma série de programas de aplicação durante as explanações dos detalhes conceituais não tendo o tópico “hora de programar”.
