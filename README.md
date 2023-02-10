@@ -1,4 +1,4 @@
-# Livro: Programação COBOL: Introdução com T-Rex
+# Livro: Programação COBOL: Introdução com T-Rex 
 
 Este livro foi escrito para pessoas novatas na atividade de programação com a linguagem COBOL, desde que possuam prévios conhecimentos de lógica de programação ou que já tenham domínio de alguma linguagem de programação.
 
